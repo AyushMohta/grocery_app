@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281027662061",
+    "project_id": "groceryapp-b0ef7",
+    "storage_bucket": "groceryapp-b0ef7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281027662061:android:d361822f8dc6bf888efce4",
+        "android_client_info": {
+          "package_name": "com.example.grocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281027662061-dh0jfpc497kpniv1tk01tpjdvmg1f1sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq7chmPk_DlGQw7Lgr2noSHIheyg8lSkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281027662061-dh0jfpc497kpniv1tk01tpjdvmg1f1sb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
